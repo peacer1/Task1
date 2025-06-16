@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zt1/JR98BEk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\orest\\Desktop\\Task1\\Task1.Application\\Task1.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orest\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\orest\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\orest\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

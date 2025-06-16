@@ -1,0 +1,15 @@
+C:\Users\orest\Desktop\Task1\Task1.Application\bin\Debug\net8.0\Task1.Application.deps.json
+C:\Users\orest\Desktop\Task1\Task1.Application\bin\Debug\net8.0\Task1.Application.dll
+C:\Users\orest\Desktop\Task1\Task1.Application\bin\Debug\net8.0\Task1.Application.pdb
+C:\Users\orest\Desktop\Task1\Task1.Application\bin\Debug\net8.0\Task1.Domain.dll
+C:\Users\orest\Desktop\Task1\Task1.Application\bin\Debug\net8.0\Task1.Domain.pdb
+C:\Users\orest\Desktop\Task1\Task1.Application\obj\Debug\net8.0\Task1.Application.csproj.AssemblyReference.cache
+C:\Users\orest\Desktop\Task1\Task1.Application\obj\Debug\net8.0\Task1.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orest\Desktop\Task1\Task1.Application\obj\Debug\net8.0\Task1.Application.AssemblyInfoInputs.cache
+C:\Users\orest\Desktop\Task1\Task1.Application\obj\Debug\net8.0\Task1.Application.AssemblyInfo.cs
+C:\Users\orest\Desktop\Task1\Task1.Application\obj\Debug\net8.0\Task1.Application.csproj.CoreCompileInputs.cache
+C:\Users\orest\Desktop\Task1\Task1.Application\obj\Debug\net8.0\Task1.Ap.83DF0196.Up2Date
+C:\Users\orest\Desktop\Task1\Task1.Application\obj\Debug\net8.0\Task1.Application.dll
+C:\Users\orest\Desktop\Task1\Task1.Application\obj\Debug\net8.0\refint\Task1.Application.dll
+C:\Users\orest\Desktop\Task1\Task1.Application\obj\Debug\net8.0\Task1.Application.pdb
+C:\Users\orest\Desktop\Task1\Task1.Application\obj\Debug\net8.0\ref\Task1.Application.dll
